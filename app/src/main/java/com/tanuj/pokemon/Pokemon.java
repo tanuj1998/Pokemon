@@ -11,6 +11,7 @@ public class Pokemon {
     public Location location;
 
     Pokemon(int Image, String name, String des, double power, double lat, double lag ){
+        
         this.Image = Image;
         this.name = name;
         this.des = des;
